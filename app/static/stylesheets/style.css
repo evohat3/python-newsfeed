@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-  background-color: #3486eb;
+  background: #3486eb;
 }
 
 .post-list {
@@ -105,8 +105,8 @@ main {
 }
 
 .btn-no-style:hover {
-  background: none;
-  color: #3486eb;
+  background: #3486eb;
+  color: #000000;
 }
 
 .delete-post-btn {
